@@ -1,0 +1,6 @@
+{
+  "name": "ANOMALY ENGINE — Adaptive BI & Discovery Agent",
+  "description": "Adaptive Business Intelligence & Discovery Agent for Consumer Retail & FMCG investigating NIFTY 50 companies with the Adaptive Analytical Caselet Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
